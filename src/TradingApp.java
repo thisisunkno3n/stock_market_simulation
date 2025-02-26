@@ -17,7 +17,7 @@ public class TradingApp {
         // Print trades ordered by priority (spread, highest first)
         market.printTradesByPriority();
         
-        // You can add further functionality (such as placing orders, simulating trades, etc.)
+        // Add further functionality (such as placing orders, simulating trades, etc.)
     }
 }
  
